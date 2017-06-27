@@ -3,14 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dependencies": {
+    "bootstrap": "^3.3.7"
   },
-  "author": "Bruno Valgas | Fernando Souza",
-  "license": "ISC",
-  "devDependencies": {
-    "grunt-cli": "^1.2.0",
-    "grunt-contrib-uglify": "^3.0.1",
-    "grunt-contrib-watch": "^1.0.0"
-  }
+  "author": "Bruno Valgas e Fernando Souza",
+  "license": "ISC"
 }
