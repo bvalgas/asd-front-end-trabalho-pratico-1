@@ -1,6 +1,8 @@
 #content{
     margin-left: 10px !important;
     margin-right: 10px !important;
+    margin-left:20px;
+    margin-right:20px;
 }
 #cabecalho{
     background-image: url("../images/background.jpg");  
@@ -15,6 +17,15 @@
 #cabecalho a:hover, #cabecalho a{
     text-decoration: none;
     color: #fff;
+}
+.sticky-container{
+    height: 318px;
+}
+.sticky{
+    max-width: 285px; 
+    margin-top: 0px; 
+    top: 0px; 
+    bottom: 1966px;
 }
 .img-post{
     width: 100%;
