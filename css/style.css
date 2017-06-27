@@ -1,0 +1,25 @@
+#content{
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+#cabecalho{
+    background-image: url("../images/background.jpg");  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    opacity: 0.7;
+    text-decoration: none;
+}
+#cabecalho a:hover, #cabecalho a{
+    text-decoration: none;
+    color: #fff;
+}
+.img-post{
+    width: 100%;
+}
+.artigo-leitura{
+    width: 80%;
+    margin: 0 auto;
+}
